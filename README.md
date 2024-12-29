@@ -1,7 +1,7 @@
 # ASSIST_assignment Frame Prediction Model
 
 ## **Dataset**
-    The dataset used for training is a video sourced from YouTube ([YouTube Video](https://youtube.com/shorts/fch15vX4Zm0?feature=share)) in `.mp4` format. The video frames are extracted for training the model to predict the next frame based on a sequence of previous frames.
+The dataset used for training is a video sourced from ([YouTube Video](https://youtube.com/shorts/fch15vX4Zm0?feature=share)) in `.mp4` format. The video frames are extracted for training the model to predict the next frame based on a sequence of previous frames.
 
 ---
 
